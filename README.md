@@ -4,3 +4,4 @@ my name is Shaxzodbek
 
 23:42
 endi nima qilamiz
+bo'ldida endi
